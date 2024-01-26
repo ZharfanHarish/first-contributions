@@ -73,7 +73,7 @@ happy# Contributors
 -[Sameet Sabu](https://github.com/sameet11)
 - [BOUKARI Marfourz](https://github.com/Marfourz)
 - [JFK]
-- [Claudio Jara](https://github.com/claudiojara)
+- [Claudio Jardo](https://github.com/claudiojara)
 -[j.f .keneddy]
 - [LSR]
 -[.kim](https//github.com/kim8584)
